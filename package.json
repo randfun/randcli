@@ -2,7 +2,9 @@
   "name": "randcli",
   "version": "0.0.1",
   "description": "A CLI to generate random data in your favorite terminal",
-  "main": "index.js",
+  "bin": {
+    "randcli": "./bin/index.js"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/randfun/cli/issues"
   },
-  "homepage": "https://github.com/randfun/cli#readme"
+  "homepage": "https://github.com/randfun/cli#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "randfun": "^0.2.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
 }
