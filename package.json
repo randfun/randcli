@@ -1,6 +1,6 @@
 {
   "name": "randcli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI to generate random data in your favorite terminal",
   "bin": {
     "randcli": "./bin/randcli.js"
