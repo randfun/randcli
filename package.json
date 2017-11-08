@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A CLI to generate random data in your favorite terminal",
   "bin": {
-    "randcli": "./bin/index.js"
+    "randcli": "./bin/randcli.js"
   },
   "scripts": {
     "test": "jest"
