@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/randfun/cli.svg?branch=master)](https://travis-ci.org/randfun/cli)
+[![npm version](https://badge.fury.io/js/randcli.svg)](https://badge.fury.io/js/randcli) [![Build Status](https://travis-ci.org/randfun/cli.svg?branch=master)](https://travis-ci.org/randfun/cli)
 
 # Randcli
 
@@ -32,6 +32,7 @@ $ randcli --help
     - geo
     - hash
     - internet
+    - movies
     - number
     - people
     - text
