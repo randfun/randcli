@@ -1936,9 +1936,9 @@ query-string@^5.0.1:
     object-assign "^4.1.0"
     strict-uri-encode "^1.0.0"
 
-randfun@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/randfun/-/randfun-0.2.0.tgz#fec199e7ce89bd596f862ac79719aff1b551eb0a"
+randfun@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/randfun/-/randfun-0.3.0.tgz#9f0058200ff495c452e713980f62fdc1d1346308"
   dependencies:
     node-fetch "^1.7.3"
     query-string "^5.0.1"
