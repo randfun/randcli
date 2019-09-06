@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/randcli.svg)](https://badge.fury.io/js/randcli) [![Build Status](https://travis-ci.org/randfun/cli.svg?branch=master)](https://travis-ci.org/randfun/cli)
+[![npm version](https://badge.fury.io/js/randcli.svg)](https://badge.fury.io/js/randcli) [![Build Status](https://travis-ci.org/randfun/randcli.svg?branch=master)](https://travis-ci.org/randfun/randcli)
 
 # Randcli
 
